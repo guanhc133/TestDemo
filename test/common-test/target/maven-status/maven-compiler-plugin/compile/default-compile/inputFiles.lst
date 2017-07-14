@@ -1,0 +1,13 @@
+E:\Test\test\common-test\src\main\java\com\finance\test\msg\send\controller\web\AbstractController.java
+E:\Test\test\common-test\src\main\java\com\finance\test\msg\send\captcha\VerifyCodeUtils.java
+E:\Test\test\common-test\src\main\java\com\finance\test\msg\send\controller\web\UserController.java
+E:\Test\test\common-test\src\main\java\com\finance\test\msg\send\captcha\ManageableImageCaptchaService.java
+E:\Test\test\common-test\src\main\java\com\finance\test\msg\send\controller\dto\UserDto.java
+E:\Test\test\common-test\src\main\java\com\finance\test\msg\send\provider\MsgSendMqProvider.java
+E:\Test\test\common-test\src\main\java\com\finance\test\msg\send\servlet\ImageCaptchaServlet.java
+E:\Test\test\common-test\src\main\java\com\finance\test\msg\send\captcha\GMailEngine.java
+E:\Test\test\common-test\src\main\java\com\finance\test\msg\send\captcha\JCaptchaUtil.java
+E:\Test\test\common-test\src\main\java\com\finance\test\msg\send\controller\validate\CaptchaValidate.java
+E:\Test\test\common-test\src\main\java\com\finance\test\msg\send\controller\web\model\ResponseModel.java
+E:\Test\test\common-test\src\main\java\com\finance\test\msg\send\quartz\MsgSendJob.java
+E:\Test\test\common-test\src\main\java\com\finance\test\msg\send\consumer\MsgSendMqConsumer.java

@@ -1,0 +1,13 @@
+com\finance\test\msg\send\controller\web\model\ResponseModel.class
+com\finance\test\msg\send\captcha\JCaptchaUtil.class
+com\finance\test\msg\send\controller\web\UserController.class
+com\finance\test\msg\send\captcha\ManageableImageCaptchaService.class
+com\finance\test\msg\send\controller\web\AbstractController.class
+com\finance\test\msg\send\servlet\ImageCaptchaServlet.class
+com\finance\test\msg\send\captcha\VerifyCodeUtils.class
+com\finance\test\msg\send\quartz\MsgSendJob.class
+com\finance\test\msg\send\provider\MsgSendMqProvider.class
+com\finance\test\msg\send\controller\dto\UserDto.class
+com\finance\test\msg\send\captcha\GMailEngine.class
+com\finance\test\msg\send\consumer\MsgSendMqConsumer.class
+com\finance\test\msg\send\controller\validate\CaptchaValidate.class

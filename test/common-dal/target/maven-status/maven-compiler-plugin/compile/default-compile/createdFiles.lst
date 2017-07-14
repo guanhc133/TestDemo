@@ -1,0 +1,6 @@
+com\finance\test\msg\send\model\UserInfoExample$Criteria.class
+com\finance\test\msg\send\mapper\UserInfoMapper.class
+com\finance\test\msg\send\model\UserInfoExample$GeneratedCriteria.class
+com\finance\test\msg\send\model\UserInfoExample$Criterion.class
+com\finance\test\msg\send\model\UserInfo.class
+com\finance\test\msg\send\model\UserInfoExample.class

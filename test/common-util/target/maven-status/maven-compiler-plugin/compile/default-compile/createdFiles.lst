@@ -1,0 +1,6 @@
+com\finance\test\msg\send\util\util\ValidateUtils.class
+com\finance\test\msg\send\util\exception\ServiceException.class
+com\finance\test\msg\send\util\constant\Paramters.class
+com\finance\test\msg\send\util\model\Response.class
+com\finance\test\msg\send\util\enums\TestBizCode.class
+com\finance\test\msg\send\util\util\GeneratorUtil.class
